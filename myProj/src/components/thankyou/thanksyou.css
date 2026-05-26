@@ -1,0 +1,163 @@
+:root {
+  --thankyou-bg: #00173d;
+  --thankyou-text-primary: #ffffff;
+  --thankyou-text-secondary: rgba(231, 239, 255, 0.82);
+}
+
+.thankyou-page-root {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background:
+    radial-gradient(circle at top left, rgba(91, 155, 255, 0.2), transparent 24%),
+    linear-gradient(180deg, #00173d 0%, #01245c 58%, #f1f6ff 58%, #f1f6ff 100%);
+  position: relative;
+}
+
+.thankyou-content-shell {
+  width: 100%;
+  max-width: 1180px;
+  margin: 0 auto;
+  padding: 110px 24px 64px;
+}
+
+.thankyou-hero {
+  text-align: center;
+  padding-bottom: 42px;
+}
+
+.thankyou-page-root .thank-you-back-btn {
+  position: absolute;
+  top: 36px;
+  left: 36px;
+  color: white;
+  z-index: 2;
+}
+
+.thankyou-logo-link {
+  display: inline-flex;
+  justify-content: center;
+  margin-bottom: 22px;
+}
+
+.thankyou-logo {
+  width: min(100%, 250px);
+  height: auto;
+}
+
+.thankyou-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  padding: 10px 16px;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.12);
+  color: white;
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.main-thankyou-title {
+  margin: 24px auto 18px;
+  color: var(--thankyou-text-primary);
+  font-size: clamp(2.5rem, 7vw, 4.8rem);
+  line-height: 1.05;
+  max-width: 820px;
+}
+
+.large-instruction {
+  font-size: 1.15rem;
+  line-height: 1.8;
+  color: var(--thankyou-text-secondary);
+  max-width: 760px;
+  margin: 0 auto;
+}
+
+.thankyou-details-strip {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 22px;
+  margin-top: 42px;
+}
+
+.thankyou-detail {
+  background: white;
+  border: 1px solid rgba(0, 23, 61, 0.08);
+  border-radius: 24px;
+  padding: 28px 24px;
+  box-shadow: 0 18px 40px rgba(0, 23, 61, 0.08);
+}
+
+.thankyou-detail h3 {
+  color: #00173d;
+  font-size: 1.1rem;
+  margin-bottom: 12px;
+}
+
+.thankyou-detail p {
+  color: #4e5f81;
+  line-height: 1.7;
+  margin: 0;
+}
+
+.contact-link {
+  color: #0d57db;
+  text-decoration: none;
+}
+
+.thankyou-actions {
+  display: flex;
+  justify-content: center;
+  gap: 14px;
+  flex-wrap: wrap;
+  margin-top: 34px;
+  margin-bottom: 14px;
+}
+
+.thankyou-primary-link,
+.thankyou-secondary-link {
+  text-decoration: none;
+  border-radius: 999px;
+  padding: 14px 22px;
+  font-weight: 700;
+  transition: transform 0.2s ease, background-color 0.2s ease;
+}
+
+.thankyou-primary-link {
+  background: #5b9bff;
+  color: white;
+}
+
+.thankyou-secondary-link {
+  background: white;
+  border: 1px solid rgba(0, 23, 61, 0.12);
+  color: #00173d;
+}
+
+.thankyou-primary-link:hover,
+.thankyou-secondary-link:hover {
+  transform: translateY(-2px);
+}
+
+.thankyou-page-root .footer-wrapper {
+  margin-top: auto;
+}
+
+@media (max-width: 900px) {
+  .thankyou-details-strip {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 768px) {
+  .thankyou-page-root .thank-you-back-btn {
+    top: 20px;
+    left: 20px;
+  }
+
+  .thankyou-content-shell {
+    padding: 94px 18px 44px;
+  }
+}

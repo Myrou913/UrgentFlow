@@ -1,0 +1,916 @@
+[
+  {
+    "id": "1",
+    "name": "Charles Nicolle Hospital",
+    "type": "hospital",
+    "city": "Tunis",
+    "coordinates": {
+      "lat": 36.8,
+      "lng": 10.16
+    },
+    "isOpenNow": true,
+    "is24_7": true,
+    "hasEmergency": true,
+    "services": [
+      "Cardiology",
+      "Dermatology",
+      "Gastroenterology",
+      "Internal medicine",
+      "Endocrinology",
+      "Neurology",
+      "Pneumology",
+      "Pediatrics & neonatology",
+      "Gynecology & obstetrics",
+      "Rheumatolog",
+      "General surgery",
+      "Orthopedics",
+      "ENT (ear, nose, throat)",
+      "Ophthalmology",
+      "Urology",
+      "Maxillofacial surgery",
+      "Radiology"
+    ]
+  },
+  {
+    "id": "2",
+    "name": "La Rabta Hospital",
+    "type": "hospital",
+    "city": "Tunis",
+    "coordinates": {
+      "lat": 36.8,
+      "lng": 10.16
+    },
+    "isOpenNow": false,
+    "is24_7": true,
+    "hasEmergency": true,
+    "services": [
+      "Cardiology",
+      "Dermatology",
+      "Gastroenterology",
+      "Internal medicine",
+      "Endocrinology",
+      "Neurology",
+      "Pneumology",
+      "Pediatrics & neonatology",
+      "Gynecology & obstetrics",
+      "Rheumatolog",
+      "General surgery",
+      "Orthopedics",
+      "ENT (ear, nose, throat)",
+      "Ophthalmology",
+      "Urology",
+      "Maxillofacial surgery",
+      "Radiology",
+      "Infectious diseases",
+      "Nephrology",
+      "Immunology"
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Habib Thameur Hospital",
+    "type": "hospital",
+    "city": "Tunis",
+    "coordinates": {
+      "lat": 36.8,
+      "lng": 10.16
+    },
+    "isOpenNow": true,
+    "is24_7": true,
+    "hasEmergency": true,
+    "services": [
+      "Cardiology",
+      "Gastroenterology",
+      "Internal medicine",
+      "Endocrinology",
+      "Neurology",
+      "Pneumology",
+      "Gynecology & obstetrics",
+      "General surgery",
+      "ENT (ear, nose, throat)",
+      "Radiology"
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Aziza Othmana Hospital",
+    "type": "hospital",
+    "city": "Tunis",
+    "coordinates": {
+      "lat": 36.8,
+      "lng": 10.16
+    },
+    "isOpenNow": true,
+    "is24_7": true,
+    "hasEmergency": true,
+    "services": [
+      "Gynecology & obstetrics",
+      "General surgery",
+      "Radiology",
+      "Hematology",
+      "General medicine",
+      "Plastic surgery & hand surgery",
+      "Orthopedics"
+    ]
+  },
+  {
+    "id": "5",
+    "name": "Razi Hospital",
+    "type": "hospital",
+    "city": "Manouba",
+    "coordinates": {
+      "lat": 36.81,
+      "lng": 10.08
+    },
+    "isOpenNow": true,
+    "is24_7": true,
+    "hasEmergency": true,
+    "services": [
+      "Psychiatry (adult)",
+      "Child & adolescent psychiatry",
+      "Addiction medicine",
+      "Psychotherapy services",
+      "Long-term psychiatric care",
+      "Rehabilitation / follow-up care",
+      "Internal medicine",
+      "Neurology"
+    ]
+  },
+  {
+    "id": "6",
+    "name": "Mongi Slim Hospital",
+    "type": "hospital",
+    "city": "La Marsa",
+    "coordinates": {
+      "lat": 36.87,
+      "lng": 10.32
+    },
+    "isOpenNow": false,
+    "is24_7": true,
+    "hasEmergency": true,
+    "services": [
+      "Cardiology",
+      "Gastroenterology",
+      "Internal medicine",
+      "Endocrinology",
+      "Neurology",
+      "Pneumology",
+      "Gynecology & obstetrics",
+      "General surgery",
+      "ENT (ear, nose, throat)",
+      "Radiology",
+      "Pediatrics",
+      "Urology",
+      "Orthopedics"
+    ]
+  },
+  {
+    "id": "7",
+    "name": "Military Hospital of Tunis",
+    "type": "hospital",
+    "city": "Tunis (Montfleury)",
+    "coordinates": {
+      "lat": 36.7845,
+      "lng": 10.1601
+    },
+    "isOpenNow": true,
+    "is24_7": true,
+    "hasEmergency": true,
+    "services": [
+      "Cardiology",
+      "Neurosurgery",
+      "Orthopedics",
+      "General surgery",
+      "Radiology",
+      "Burn Unit",
+      "Urology"
+    ]
+  },
+  {
+    "id": "8",
+    "name": "Farhat Hached Hospital",
+    "type": "hospital",
+    "city": "Sousse",
+    "coordinates": {
+      "lat": 35.8286,
+      "lng": 10.6302
+    },
+    "isOpenNow": true,
+    "is24_7": true,
+    "hasEmergency": true,
+    "services": [
+      "Oncology",
+      "Pediatrics",
+      "Internal medicine",
+      "Infectious diseases",
+      "Nutrition",
+      "Maternity"
+    ]
+  },
+  {
+    "id": "9",
+    "name": "Sahloul Hospital",
+    "type": "hospital",
+    "city": "Sousse",
+    "coordinates": {
+      "lat": 35.8344,
+      "lng": 10.5925
+    },
+    "isOpenNow": true,
+    "is24_7": true,
+    "hasEmergency": true,
+    "services": [
+      "Emergency medicine",
+      "Urology",
+      "Neurosurgery",
+      "Cardiology",
+      "Traumatology",
+      "Radiology"
+    ]
+  },
+  {
+    "id": "10",
+    "name": "Habib Bourguiba Hospital",
+    "type": "hospital",
+    "city": "Sfax",
+    "coordinates": {
+      "lat": 34.7431,
+      "lng": 10.7483
+    },
+    "isOpenNow": false,
+    "is24_7": true,
+    "hasEmergency": true,
+    "services": [
+      "Cardiology",
+      "ENT",
+      "Orthopedics",
+      "General surgery",
+      "Neurology",
+      "Radiology"
+    ]
+  },
+  {
+    "id": "11",
+    "name": "Tahar Sfar Hospital",
+    "type": "hospital",
+    "city": "Mahdia",
+    "coordinates": {
+      "lat": 35.5036,
+      "lng": 11.0458
+    },
+    "isOpenNow": true,
+    "is24_7": true,
+    "hasEmergency": true,
+    "services": [
+      "Pediatrics",
+      "Gynecology & obstetrics",
+      "General surgery",
+      "Internal medicine"
+    ]
+  },
+  {
+    "id": "12",
+    "name": "Taher Maamouri Hospital",
+    "type": "hospital",
+    "city": "Nabeul",
+    "coordinates": {
+      "lat": 36.4561,
+      "lng": 10.7314
+    },
+    "isOpenNow": true,
+    "is24_7": true,
+    "hasEmergency": true,
+    "services": [
+      "General surgery",
+      "Pediatrics",
+      "Maternity",
+      "Radiology",
+      "Cardiology",
+      "Nutrition"
+    ]
+  },
+  {
+    "id": "13",
+    "name": "Hedi Chaker Hospital",
+    "type": "hospital",
+    "city": "Sfax",
+    "coordinates": {
+      "lat": 34.74,
+      "lng": 10.745
+    },
+    "isOpenNow": true,
+    "is24_7": true,
+    "hasEmergency": true,
+    "services": [
+      "Pediatrics",
+      "Psychiatry",
+      "Internal medicine",
+      "Dermatology"
+    ]
+  },
+  {
+    "id": "14",
+    "name": "Fattouma Bourguiba Hospital",
+    "type": "hospital",
+    "city": "Monastir",
+    "coordinates": {
+      "lat": 35.7645,
+      "lng": 10.8112
+    },
+    "isOpenNow": false,
+    "is24_7": true,
+    "hasEmergency": true,
+    "services": [
+      "Cardiology",
+      "Cardiac surgery",
+      "Pediatrics",
+      "Neonatology",
+      "General surgery"
+    ]
+  },
+  {
+    "id": "15",
+    "name": "Ahmed Tletli Hospital",
+    "type": "hospital",
+    "city": "Nabeul",
+    "coordinates": {
+      "lat": 36.45,
+      "lng": 10.72
+    },
+    "isOpenNow": true,
+    "is24_7": true,
+    "hasEmergency": true,
+    "services": [
+      "General medicine",
+      "Emergency",
+      "Outpatient services"
+    ]
+  },
+  {
+    "id": "16",
+    "name": "Bizerte University Hospital",
+    "type": "hospital",
+    "city": "Bizerte",
+    "coordinates": {
+      "lat": 37.2744,
+      "lng": 9.8739
+    },
+    "isOpenNow": false,
+    "is24_7": true,
+    "hasEmergency": true,
+    "services": [
+      "General surgery",
+      "Orthopedics",
+      "Maternity",
+      "Pediatrics"
+    ]
+  },
+  {
+    "id": "17",
+    "name": "Ibn El Jazzar Hospital",
+    "type": "hospital",
+    "city": "Kairouan",
+    "coordinates": {
+      "lat": 35.6711,
+      "lng": 10.1001
+    },
+    "isOpenNow": true,
+    "is24_7": true,
+    "hasEmergency": true,
+    "services": [
+      "Internal medicine",
+      "General surgery",
+      "Maternity",
+      "Pediatrics",
+      "Nutrition"
+    ]
+  },
+  {
+    "id": "18",
+    "name": "Kasserine Regional Hospital",
+    "type": "hospital",
+    "city": "Kasserine",
+    "coordinates": {
+      "lat": 35.1675,
+      "lng": 8.8317
+    },
+    "isOpenNow": false,
+    "is24_7": true,
+    "hasEmergency": true,
+    "services": [
+      "Emergency",
+      "General surgery",
+      "Maternity",
+      "Radiology",
+      "Anesthesiology"
+    ]
+  },
+  {
+    "id": "19",
+    "name": "Gafsa Regional Hospital",
+    "type": "hospital",
+    "city": "Gafsa",
+    "coordinates": {
+      "lat": 34.425,
+      "lng": 8.7842
+    },
+    "isOpenNow": true,
+    "is24_7": true,
+    "hasEmergency": true,
+    "services": [
+      "General surgery",
+      "Pediatrics",
+      "Internal medicine",
+      "Maternity",
+      "Dentistry"
+    ]
+  },
+  {
+    "id": "20",
+    "name": "Kebili Regional Hospital",
+    "type": "hospital",
+    "city": "Kebili",
+    "coordinates": {
+      "lat": 33.7044,
+      "lng": 8.969
+    },
+    "isOpenNow": true,
+    "is24_7": true,
+    "hasEmergency": true,
+    "services": [
+      "Emergency",
+      "General medicine",
+      "Maternity",
+      "Dentistry"
+    ]
+  },
+  {
+    "id": "21",
+    "name": "Tozeur Hospital",
+    "type": "hospital",
+    "city": "Tozeur",
+    "coordinates": {
+      "lat": 33.9185,
+      "lng": 8.1229
+    },
+    "isOpenNow": true,
+    "is24_7": true,
+    "hasEmergency": true,
+    "services": [
+      "Emergency",
+      "General surgery",
+      "Pediatrics"
+    ]
+  },
+  {
+    "id": "22",
+    "name": "Zaghouan Regional Hospital",
+    "type": "hospital",
+    "city": "Zaghouan",
+    "coordinates": {
+      "lat": 36.4025,
+      "lng": 10.1428
+    },
+    "isOpenNow": true,
+    "is24_7": true,
+    "hasEmergency": true,
+    "services": [
+      "General medicine",
+      "Emergency",
+      "Maternity"
+    ]
+  },
+  {
+    "id": "23",
+    "name": "Houcine Bouzaiene Regional Hospital",
+    "type": "hospital",
+    "city": "Gafsa",
+    "coordinates": {
+      "lat": 34.431,
+      "lng": 8.775
+    },
+    "isOpenNow": true,
+    "is24_7": true,
+    "hasEmergency": true,
+    "services": [
+      "Surgery",
+      "Internal medicine",
+      "Orthopedics"
+    ]
+  },
+  {
+    "id": "25",
+    "name": "Clinique Tunisie",
+    "type": "clinic",
+    "city": "Tunis",
+    "coordinates": {
+      "lat": 36.8,
+      "lng": 10.18
+    },
+    "isOpenNow": true,
+    "is24_7": true,
+    "hasEmergency": true,
+    "services": [
+      "General surgery",
+      "Cardiology",
+      "Radiology"
+    ]
+  },
+  {
+    "id": "26",
+    "name": "Nouvelle Clinique du Parc",
+    "type": "clinic",
+    "city": "Tunis (Belvédère)",
+    "coordinates": {
+      "lat": 36.821,
+      "lng": 10.185
+    },
+    "isOpenNow": true,
+    "is24_7": true,
+    "hasEmergency": true,
+    "services": [
+      "Cardiology",
+      "Internal medicine",
+      "Surgery"
+    ]
+  },
+  {
+    "id": "27",
+    "name": "Pasteur Clinic",
+    "type": "clinic",
+    "city": "Tunis (Centre Urbain Nord)",
+    "coordinates": {
+      "lat": 36.8455,
+      "lng": 10.1992
+    },
+    "isOpenNow": false,
+    "is24_7": true,
+    "hasEmergency": true,
+    "services": [
+      "Cardiovascular surgery",
+      "Radiology",
+      "Maternity",
+      "Urology"
+    ]
+  },
+  {
+    "id": "28",
+    "name": "Rose Clinic",
+    "type": "clinic",
+    "city": "Tunis (Lac 2)",
+    "coordinates": {
+      "lat": 36.848,
+      "lng": 10.265
+    },
+    "isOpenNow": false,
+    "is24_7": true,
+    "hasEmergency": true,
+    "services": [
+      "Plastic surgery",
+      "Dermatology",
+      "General surgery",
+      "Dentistry"
+    ]
+  },
+  {
+    "id": "29",
+    "name": "Myron International Clinic",
+    "type": "clinic",
+    "city": "Tunis (Lac 2)",
+    "coordinates": {
+      "lat": 36.849,
+      "lng": 10.27
+    },
+    "isOpenNow": false,
+    "is24_7": true,
+    "hasEmergency": true,
+    "services": [
+      "Orthopedics",
+      "Cardiology",
+      "General surgery",
+      "Anesthesiology"
+    ]
+  },
+  {
+    "id": "30",
+    "name": "Mediterranean Clinic",
+    "type": "clinic",
+    "city": "Tunis (Ennasr)",
+    "coordinates": {
+      "lat": 36.855,
+      "lng": 10.16
+    },
+    "isOpenNow": true,
+    "is24_7": true,
+    "hasEmergency": true,
+    "services": [
+      "Urology",
+      "Oncology",
+      "General surgery",
+      "Anesthesiology"
+    ]
+  },
+  {
+    "id": "31",
+    "name": "Polyclinique Les Jasmins",
+    "type": "clinic",
+    "city": "Tunis (Centre Urbain Nord)",
+    "coordinates": {
+      "lat": 36.8415,
+      "lng": 10.2031
+    },
+    "isOpenNow": true,
+    "is24_7": true,
+    "hasEmergency": true,
+    "services": [
+      "Maternity",
+      "PMA (Assisted Reproduction)",
+      "Pediatrics",
+      "Neonatology"
+    ]
+  },
+  {
+    "id": "32",
+    "name": "Hannibal International Clinic",
+    "type": "clinic",
+    "city": "Tunis (Lac 2)",
+    "coordinates": {
+      "lat": 36.8461,
+      "lng": 10.2721
+    },
+    "isOpenNow": true,
+    "is24_7": true,
+    "hasEmergency": true,
+    "services": [
+      "Oncology",
+      "Radiotherapy",
+      "Cardiology",
+      "Orthopedics"
+    ]
+  },
+  {
+    "id": "33",
+    "name": "Amen Clinic",
+    "type": "clinic",
+    "city": "Tunis (La Marsa/Mutuelleville)",
+    "coordinates": {
+      "lat": 36.8251,
+      "lng": 10.1772
+    },
+    "isOpenNow": true,
+    "is24_7": true,
+    "hasEmergency": true,
+    "services": [
+      "Gastroenterology",
+      "Cardiology",
+      "Urology",
+      "Check-ups"
+    ]
+  },
+  {
+    "id": "34",
+    "name": "Espoir Clinic",
+    "type": "clinic",
+    "city": "Tunis (Ennasr)",
+    "coordinates": {
+      "lat": 36.852,
+      "lng": 10.165
+    },
+    "isOpenNow": true,
+    "is24_7": true,
+    "hasEmergency": true,
+    "services": [
+      "Plastic surgery",
+      "Obesity surgery",
+      "General surgery"
+    ]
+  },
+  {
+    "id": "35",
+    "name": "Clinique La Liberté",
+    "type": "clinic",
+    "city": "Tunis",
+    "coordinates": {
+      "lat": 36.815,
+      "lng": 10.175
+    },
+    "isOpenNow": false,
+    "is24_7": true,
+    "hasEmergency": true,
+    "services": [
+      "General medicine",
+      "Surgery",
+      "Radiology"
+    ]
+  },
+  {
+    "id": "36",
+    "name": "Montplaisir Clinic",
+    "type": "clinic",
+    "city": "Tunis (Montplaisir)",
+    "coordinates": {
+      "lat": 36.819,
+      "lng": 10.191
+    },
+    "isOpenNow": false,
+    "is24_7": true,
+    "hasEmergency": true,
+    "services": [
+      "General surgery",
+      "Maternity",
+      "Internal medicine"
+    ]
+  },
+  {
+    "id": "37",
+    "name": "Clinic Alyssa",
+    "type": "clinic",
+    "city": "Tunis (Lac 1)",
+    "coordinates": {
+      "lat": 36.835,
+      "lng": 10.235
+    },
+    "isOpenNow": false,
+    "is24_7": true,
+    "hasEmergency": true,
+    "services": [
+      "Plastic surgery",
+      "Esthetic medicine",
+      "General surgery"
+    ]
+  },
+  {
+    "id": "38",
+    "name": "Groupe Polyclinique Les Berges du Lac",
+    "type": "clinic",
+    "city": "Tunis (Lac 1)",
+    "coordinates": {
+      "lat": 36.838,
+      "lng": 10.23
+    },
+    "isOpenNow": true,
+    "is24_7": true,
+    "hasEmergency": true,
+    "services": [
+      "Cardiology",
+      "Orthopedics",
+      "Radiology",
+      "Maternity"
+    ]
+  },
+  {
+    "id": "39",
+    "name": "Polyclinique EL FARABI",
+    "type": "clinic",
+    "city": "Tunis (Ennasr)",
+    "coordinates": {
+      "lat": 36.856,
+      "lng": 10.158
+    },
+    "isOpenNow": true,
+    "is24_7": true,
+    "hasEmergency": true,
+    "services": [
+      "General surgery",
+      "Urology",
+      "Pediatrics"
+    ]
+  },
+  {
+    "id": "40",
+    "name": "Clinique Avicenne",
+    "type": "clinic",
+    "city": "Tunis (Ennasr)",
+    "coordinates": {
+      "lat": 36.8545,
+      "lng": 10.162
+    },
+    "isOpenNow": true,
+    "is24_7": true,
+    "hasEmergency": true,
+    "services": [
+      "Oncology",
+      "Internal medicine",
+      "Surgery"
+    ]
+  },
+  {
+    "id": "41",
+    "name": "Clinique Internationale de Sousse (CIS)",
+    "type": "clinic",
+    "city": "Sousse",
+    "coordinates": {
+      "lat": 35.835,
+      "lng": 10.605
+    },
+    "isOpenNow": true,
+    "is24_7": true,
+    "hasEmergency": true,
+    "services": [
+      "Cardiology",
+      "Orthopedics",
+      "Oncology",
+      "Emergency"
+    ]
+  },
+  {
+    "id": "42",
+    "name": "La Clinique du Sahel",
+    "type": "clinic",
+    "city": "Sousse",
+    "coordinates": {
+      "lat": 35.82,
+      "lng": 10.61
+    },
+    "isOpenNow": true,
+    "is24_7": true,
+    "hasEmergency": true,
+    "services": [
+      "General surgery",
+      "Maternity",
+      "Radiology"
+    ]
+  },
+  {
+    "id": "43",
+    "name": "Clinique Les Oliviers",
+    "type": "clinic",
+    "city": "Sousse",
+    "coordinates": {
+      "lat": 35.85,
+      "lng": 10.6
+    },
+    "isOpenNow": true,
+    "is24_7": true,
+    "hasEmergency": true,
+    "services": [
+      "Cardiology",
+      "Neurology",
+      "General surgery"
+    ]
+  },
+  {
+    "id": "44",
+    "name": "Pharmacie Bayoudh",
+    "type": "pharmacy",
+    "city": "Tunis",
+    "coordinates": {
+      "lat": 36.805,
+      "lng": 10.182
+    },
+    "isOpenNow": true,
+    "is24_7": false,
+    "hasEmergency": false,
+    "services": [
+      "pharmacy"
+    ]
+  },
+  {
+    "id": "45",
+    "name": "Narjes Kamoun Pharmacy",
+    "type": "pharmacy",
+    "city": "Tunis",
+    "coordinates": {
+      "lat": 36.812,
+      "lng": 10.17
+    },
+    "isOpenNow": false,
+    "is24_7": false,
+    "hasEmergency": false,
+    "services": [
+      "pharmacy"
+    ]
+  },
+  {
+    "id": "46",
+    "name": "Pharmacie du Marché Central Dr Omar Khabthani",
+    "type": "pharmacy",
+    "city": "Tunis (Centre Ville)",
+    "coordinates": {
+      "lat": 36.7983,
+      "lng": 10.1775
+    },
+    "isOpenNow": true,
+    "is24_7": false,
+    "hasEmergency": false,
+    "services": [
+      "pharmacy"
+    ]
+  },
+  {
+    "id": "47",
+    "name": "PHARMACIE CITÉ EL MANAZEH",
+    "type": "pharmacy",
+    "city": "Tunis (El Menzah)",
+    "coordinates": {
+      "lat": 36.8385,
+      "lng": 10.1664
+    },
+    "isOpenNow": false,
+    "is24_7": true,
+    "hasEmergency": false,
+    "services": [
+      "pharmacy"
+    ]
+  }
+]
