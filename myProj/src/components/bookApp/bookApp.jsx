@@ -59,7 +59,7 @@ export default function BookAppointment() {
     const minutes = currentTime.getMinutes();
     const totalMinutes = hours * 60 + minutes;
     const opensAt = 7 * 60;
-    const closesAt = 23 * 60;
+    const closesAt = 12 * 60;
 
     return {
       isOpen: totalMinutes >= opensAt && totalMinutes < closesAt,
